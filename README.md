@@ -1,2 +1,0 @@
-# madiria
-my blog project
